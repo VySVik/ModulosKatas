@@ -1,0 +1,167 @@
+Microsoft Windows [Versión 10.0.19042.1466]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\vysvi>
+C:\Users\vysvi>python3 -m venv env
+
+C:\Users\vysvi>cd Documents
+
+C:\Users\vysvi\Documents>cd VySVik
+
+
+
+ Directorio de C:\Users\vysvi\Documents\VySVik
+
+
+01/02/2022  10:48 p. m.           497,415 LAUNCH X _ CAPÍTULO MÉXICO.pdf
+07/02/2022  03:55 p. m.    <DIR>          XL
+               2 archivos        575,249 bytes
+              10 dirs  271,185,293,312 bytes libres
+
+C:\Users\vysvi\Documents\VySVik>cd XL
+
+C:\Users\vysvi\Documents\VySVik\XL>dir
+
+ Directorio de C:\Users\vysvi\Documents\VySVik\XL
+
+07/02/2022  03:55 p. m.    <DIR>          .
+07/02/2022  03:55 p. m.    <DIR>          ..
+07/02/2022  06:07 p. m.    <DIR>          Ejercicios
+07/02/2022  03:55 p. m.    <DIR>          Py
+07/02/2022  03:55 p. m.    <DIR>          VS
+               0 archivos              0 bytes
+               5 dirs  271,185,293,312 bytes libres
+
+C:\Users\vysvi\Documents\VySVik\XL>cd Ejercicios
+
+ Directorio de C:\Users\vysvi\Documents\VySVik\XL\Ejercicios
+
+07/02/2022  06:07 p. m.    <DIR>          .
+07/02/2022  06:07 p. m.    <DIR>          ..
+07/02/2022  06:09 p. m.    <DIR>          env
+07/02/2022  05:54 p. m.             1,476 Modulo1Katas.ipynb
+07/02/2022  05:39 p. m.             8,556 ship-manual.ipynb
+               2 archivos         10,032 bytes
+               3 dirs  271,185,293,312 bytes libres
+
+ Directorio de C:\Users\vysvi\Documents\VySVik\XL\Ejercicios
+
+07/02/2022  11:19 p. m.    <DIR>          .
+07/02/2022  11:19 p. m.    <DIR>          ..
+07/02/2022  06:09 p. m.    <DIR>          env
+07/02/2022  11:19 p. m.    <DIR>          Modulo 2
+07/02/2022  05:54 p. m.             1,476 Modulo1Katas.ipynb
+07/02/2022  05:39 p. m.             8,556 ship-manual.ipynb
+               2 archivos         10,032 bytes
+               4 dirs  271,184,904,192 bytes libres
+
+C:\Users\vysvi\Documents\VySVik\XL\Ejercicios>cd "Modulo 2"
+
+C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2>python3 -m venv env
+
+C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2>cd env
+
+C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env>dir
+
+
+ Directorio de C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env
+
+07/02/2022  11:19 p. m.    <DIR>          .
+07/02/2022  11:19 p. m.    <DIR>          ..
+07/02/2022  11:19 p. m.    <DIR>          Include
+07/02/2022  11:19 p. m.    <DIR>          Lib
+07/02/2022  11:19 p. m.               165 pyvenv.cfg
+07/02/2022  11:19 p. m.    <DIR>          Scripts
+               1 archivos            165 bytes
+               5 dirs  271,162,707,968 bytes libres
+
+C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env>cd Scripts
+
+C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>dir
+
+
+ Directorio de C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts
+
+07/02/2022  11:19 p. m.    <DIR>          .
+07/02/2022  11:19 p. m.    <DIR>          ..
+07/02/2022  11:19 p. m.             2,002 activate
+07/02/2022  11:19 p. m.               994 activate.bat
+07/02/2022  11:19 p. m.            20,372 Activate.ps1
+07/02/2022  11:19 p. m.               368 deactivate.bat
+07/02/2022  11:19 p. m.           106,390 pip.exe
+07/02/2022  11:19 p. m.           106,390 pip3.9.exe
+07/02/2022  11:19 p. m.           106,390 pip3.exe
+07/02/2022  11:19 p. m.           597,904 python.exe
+07/02/2022  11:19 p. m.           597,392 pythonw.exe
+               9 archivos      1,538,202 bytes
+               2 dirs  271,162,703,872 bytes libres
+
+
+
+
+
+C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>activate
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip freeze
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip freeze
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip install python-dateutil
+Collecting python-dateutil
+  Using cached python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+Collecting six>=1.5
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: six, python-dateutil
+Successfully installed python-dateutil-2.8.2 six-1.16.0
+WARNING: You are using pip version 21.2.4; however, version 22.0.3 is available.
+You should consider upgrading via the 'C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip install python-dateutil
+Requirement already satisfied: python-dateutil in c:\users\vysvi\documents\vysvik\xl\ejercicios\modulo 2\env\lib\site-packages (2.8.2)
+Requirement already satisfied: six>=1.5 in c:\users\vysvi\documents\vysvik\xl\ejercicios\modulo 2\env\lib\site-packages (from python-dateutil) (1.16.0)
+WARNING: You are using pip version 21.2.4; however, version 22.0.3 is available.
+You should consider upgrading via the 'C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip install upgrade
+ERROR: Could not find a version that satisfies the requirement upgrade (from versions: none)
+ERROR: No matching distribution found for upgrade
+WARNING: You are using pip version 21.2.4; however, version 22.0.3 is available.
+You should consider upgrading via the 'C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip install upgrade pip
+ERROR: Could not find a version that satisfies the requirement upgrade (from versions: none)
+ERROR: No matching distribution found for upgrade
+WARNING: You are using pip version 21.2.4; however, version 22.0.3 is available.
+You should consider upgrading via the 'C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip install --upgrade pip
+Requirement already satisfied: pip in c:\users\vysvi\documents\vysvik\xl\ejercicios\modulo 2\env\lib\site-packages (21.2.4)
+Collecting pip
+  Using cached pip-22.0.3-py3-none-any.whl (2.1 MB)
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 21.2.4
+    Uninstalling pip-21.2.4:
+      Successfully uninstalled pip-21.2.4
+ERROR: Could not install packages due to an OSError: [WinError 5] Acceso denegado: 'C:\\Users\\vysvi\\AppData\\Local\\Temp\\pip-uninstall-t1juhq5n\\pip.exe'
+Check the permissions.
+
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip install --upgrade pip
+Requirement already satisfied: pip in c:\users\vysvi\documents\vysvik\xl\ejercicios\modulo 2\env\lib\site-packages (22.0.3)
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip install --upgrade pip
+Requirement already satisfied: pip in c:\users\vysvi\documents\vysvik\xl\ejercicios\modulo 2\env\lib\site-packages (22.0.3)
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip install python-dateutil
+Requirement already satisfied: python-dateutil in c:\users\vysvi\documents\vysvik\xl\ejercicios\modulo 2\env\lib\site-packages (2.8.2)
+Requirement already satisfied: six>=1.5 in c:\users\vysvi\documents\vysvik\xl\ejercicios\modulo 2\env\lib\site-packages (from python-dateutil) (1.16.0)
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>pip freeze
+python-dateutil==2.8.2
+six==1.16.0
+
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>
+(env) C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>deactivate
+C:\Users\vysvi\Documents\VySVik\XL\Ejercicios\Modulo 2\env\Scripts>deactivate
